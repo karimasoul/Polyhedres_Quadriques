@@ -1,3 +1,6 @@
 # Polyhedres Quadriques
 
-Ce projet fait sur Unity, génère des formes en 3D en utilisant des triangles et des calculs.
+<br>
+This Unity project generates 3D shapes using triangles and mathematical computations. 
+<br>
+It demonstrates the fundamentals of 3D geometry and procedural shape generation.
